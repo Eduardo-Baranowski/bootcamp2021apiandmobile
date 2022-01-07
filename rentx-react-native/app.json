@@ -1,0 +1,15 @@
+{
+  "name": "rentx",
+  "displayName": "rentx",
+  "expo": {
+    "name": "rentx",
+    "slug": "rentx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.ebaranowski.rentx"
+    }
+  }
+}
